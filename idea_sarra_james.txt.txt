@@ -1,0 +1,2 @@
+As a student, I want AI to adjust my alarm time based on my sleep pattern and daily schedule, so that I can wake up feeling rested and on time.
+
